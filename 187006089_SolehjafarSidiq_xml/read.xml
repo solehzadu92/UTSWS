@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<xml>
+    <mahasiswa>
+        <NIM>1</NIM>
+        <Nama/>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>2</NIM>
+        <Nama/>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>3</NIM>
+        <Nama/>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>4</NIM>
+        <Nama/>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>14</NIM>
+        <Nama>Soleh Jafar Sidiq</Nama>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>15</NIM>
+        <Nama>Soleh Jafar Sidiq</Nama>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>16</NIM>
+        <Nama/>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>17</NIM>
+        <Nama/>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>18</NIM>
+        <Nama>ewin</Nama>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>19</NIM>
+        <Nama>ewin</Nama>
+    </mahasiswa>
+    <mahasiswa>
+        <NIM>20</NIM>
+        <Nama>Soleh Jafar Sidiq</Nama>
+    </mahasiswa>
+</xml>
